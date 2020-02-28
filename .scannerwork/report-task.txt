@@ -2,5 +2,5 @@ projectKey=multi-module-project
 serverUrl=http://172.27.30.14:9000
 serverVersion=7.0.0.36138
 dashboardUrl=http://172.27.30.14:9000/dashboard/index/multi-module-project
-ceTaskId=AXCLJen9x_h9WzImBoj1
-ceTaskUrl=http://172.27.30.14:9000/api/ce/task?id=AXCLJen9x_h9WzImBoj1
+ceTaskId=AXCLndDKx_h9WzImBoj2
+ceTaskUrl=http://172.27.30.14:9000/api/ce/task?id=AXCLndDKx_h9WzImBoj2
