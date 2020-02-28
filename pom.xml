@@ -20,7 +20,6 @@
     <profile>
         <id>SonarPlugins</id>
         <activation>
-            <activeByDefault>true</activeByDefault>
             <file>
                 <exists>./sonar-project.properties</exists>
             </file>
