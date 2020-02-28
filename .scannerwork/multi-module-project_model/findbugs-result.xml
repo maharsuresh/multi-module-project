@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.12" sequence="0" timestamp="1582882434000" analysisTimestamp="1582882481322" release="">
+  <Project>
+    <Jar>/home/suresh/Documents/skm/sonar-jenkins-intelijidea/multi-module-project/model/target/classes/com/athena/model/User.class</Jar>
+    <AuxClasspathEntry>/home/suresh/Documents/skm/sonar-jenkins-intelijidea/multi-module-project/model/target/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/suresh/Documents/skm/sonar-jenkins-intelijidea/multi-module-project/.scannerwork/multi-module-project_model/findbugs/annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/home/suresh/Documents/skm/sonar-jenkins-intelijidea/multi-module-project/.scannerwork/multi-module-project_model/findbugs/jsr305.jar</AuxClasspathEntry>
+    <WrkDir>/home/suresh/Documents/skm/sonar-jenkins-intelijidea/multi-module-project/.scannerwork/multi-module-project_model</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Fri, 28 Feb 2020 15:03:54 +0530" total_classes="1" referenced_classes="12" total_bugs="0" total_size="18" num_packages="1" java_version="11.0.3" vm_version="11.0.3+7" cpu_seconds="0.58" clock_seconds="0.25" peak_mbytes="261.57" alloc_mbytes="1966.00" gc_seconds="0.01">
+    <FileStats path="com/athena/model/User.java" bugCount="0" size="18"/>
+    <PackageStats package="com.athena.model" total_bugs="0" total_types="1" total_size="18">
+      <ClassStats class="com.athena.model.User" sourceFile="User.java" interface="false" size="18" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="76" invocations="322" avgMicrosecondsPerInvocation="238" maxMicrosecondsPerInvocation="9165" standardDeviationMicrosecondsPerInvocation="636"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="11" invocations="289" avgMicrosecondsPerInvocation="38" maxMicrosecondsPerInvocation="689" standardDeviationMicrosecondsPerInvocation="70"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
