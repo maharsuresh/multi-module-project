@@ -54,7 +54,7 @@
                             </goals>
                             <configuration>
                                 <executable>bash</executable>
-                                <commandlineArgs>./build-script/sonar.sh ${sonar.analyse.type} ${sonar.login.token}
+                                <commandlineArgs>./build_scripts/sonar.sh ${sonar.analyse.type} ${sonar.login.token}
                                     ${pr.current.branch} ${pr.base.branch} ${pr.key} ${github.repo.slug}
                                     ${current.branch} ${target.branch}</commandlineArgs>
                             </configuration>
