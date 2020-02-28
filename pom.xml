@@ -13,6 +13,7 @@
         <module>service</module>
         <module>dao</module>
         <module>model</module>
+        <module>test</module>
     </modules>
 
 

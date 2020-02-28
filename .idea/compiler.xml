@@ -9,6 +9,7 @@
         <module name="controller" />
         <module name="dao" />
         <module name="model" />
+        <module name="test" />
         <module name="service" />
       </profile>
     </annotationProcessing>
