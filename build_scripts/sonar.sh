@@ -10,7 +10,7 @@ fi
 echo "Running sonar analysis"
 cd sonar-analysis
 alias exit=return
-sh sonar-analysis.sh "$@"
+bash sonar-analysis.sh "$@"
 
 # Remove the cloned repo
 rm -rf sonar-analysis
